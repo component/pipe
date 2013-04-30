@@ -1,7 +1,7 @@
 
 # pipe
 
-  Canvas "pipe".
+  Canvas "pipe" between two points.
 
 ## Installation
 
