@@ -1,0 +1,15 @@
+{
+  "name": "pipe",
+  "repo": "component/pipe",
+  "description": "Canvas pipe connection between two dom nodes",
+  "version": "0.0.1",
+  "keywords": ["canvas", "pipe", "cable"],
+  "development": {
+    "component/raf": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
